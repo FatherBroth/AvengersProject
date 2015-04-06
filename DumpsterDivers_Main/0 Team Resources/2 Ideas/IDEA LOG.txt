@@ -1,0 +1,53 @@
+-----------------------------------------
+//IDEAS// VER 1.0
+-----------------------------------------
+
+-Explanation:
+
+  Log all Ideas while in "concept" stage and we will cover what's in this log. If the Idea passes through the team it will be implemented, otherwise it will be remove from our lives FOREVER!
+
+Please keep all recorded ideas in the following format:
+
+ +Date Idea was Logged
+ +Idea Label
+
+ +Idea explanation and full detail
+ +Idea pass or fail
+ +Idea submittee
+ +If and when Idea was talked about
+
+-I.E:
+
+01/25/15
+Idea Log (Rough Idea)
+-The team will be able to post all concepts and Ideas in a Log.
+-All ideas will be put on the "Chopping block" and discussed at every official meeting.
+-Ideas will "pass" or "Fail" depending on the teams verdict.
+-Ideas that "pass" will be implemented into the project. All others will be thrown into the "Grinder."
+
+Submitted by Xero
+Pass or Fail:
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+
+01/25/15
+Character Specific Decks (Rough Idea)
+
+-Players will be able to create decks based around the character they choose to play.
+-All decks will have character specific options unique to character class chosen. IE: Mages cannot use Monk cards ECT.
+-Global cards will be available to all classes as well
+-Cards will have rarity, tradeability, (possibly crafting?), and untradability
+-Cards will add another factor of play, treasure hunting, micro transactioning, and player interation to the game.
+-Cards will have seperate border colors, interface, and/ backings that can be earned or purchased.
+-Cards will be able to be looted or earned in-game, or bought via packs in store.
+-Cross-Reff: Hearthstone by Blizzard enertainment.
+
+Submitted by Xero
+Pass or Fail: Posponed
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+
+
